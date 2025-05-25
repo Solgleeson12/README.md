@@ -1,187 +1,93 @@
-<!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=gleesondev">
-
-<!-- introduction -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+🌍;I'm+GleesonDev!;&center=true&font=Righteous&size=35&color=4F8CC9">
-  </a>
-</h1>
-
-<br />
-<!-- about me -->
-<p align="center">
-  Full-Stack Developer 🚀 | Open Source Contributor 🌱 | Tech Enthusiast 💡
-  <br />
-  <br />
-  🎓 Computer Science Graduate with passion for solving complex problems
-  <br />
-  💡 Love building scalable, performant applications with modern stacks
-  <br />
-  🚀 Currently working on cutting-edge web3 and AI integrations
-  <br />
-  ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
-</p>
-
-<!-- social handles -->
-<div align="center"> 
-  <!-- twitter -->
-  <a href="https://twitter.com/gleesondev" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
-  <!-- dev.to -->
-  <a href="https://dev.to/gleesondev" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
-  <!-- gmail -->
-  <a href="mailto:contact@gleesondev.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!-- linkedin -->
-  <a href="https://www.linkedin.com/in/gleesondev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <!-- portfolio -->
-  <a href="https://gleeson.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
-</div>
-
-<hr />
-<!-- skills -->
-<h2 align="center">🛠️ Tech Stack 🛠️</h2>
-<br />
-<p align="center">
-  <a href="https://skillicons.dev">
-      <!-- first row -->
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,astro,rust,go,graphql,html,css,js,ts,tailwind,figma,threejs&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,astro,rust,go,graphql,html,css,js,ts,tailwind,figma,threejs&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nextjs,react,astro,rust,go,graphql,html,css,js,ts,tailwind,figma,threejs" alt="core skills" />
-      </picture>
-      <br />
-      <!-- second row -->
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,prisma,docker,kubernetes,aws,gcp,supabase&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,prisma,docker,kubernetes,aws,gcp,supabase&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,prisma,docker,kubernetes,aws,gcp,supabase" alt="backend & devops" />
-      </picture>
-  </a>
-</p>
-<br />
-
-<!-- deployment -->
-<h3 align="center">Deployment & Monitoring</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=vercel,netlify,githubactions,grafana,prometheus&theme=dark' />
-          <source media="(prefers-color-scheme: light)" srcset='https://skillicons.dev/icons?i=vercel,netlify,githubactions,grafana,prometheus&theme=light' />
-          <img src='https://skillicons.dev/icons?i=vercel,netlify,githubactions,grafana,prometheus' alt="deployment" />
-      </picture>
-  </a>
-</p>
-<hr />
-
-<!-- snake graph -->
+<!-- PowerShell-inspired Terminal UI -->
 <div align="center">
-  <h2>🐍 My Contribution Graph 🐍</h2>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gleesondev/gleesondev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gleesondev/gleesondev/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/gleesondev/gleesondev/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
+  <img src="https://i.imgur.com/3JmQZ7O.png" alt="PowerShell logo" width="100"/>
+  <h1 style="font-family: 'Consolas', monospace; color: #4CAF50;">Solgleeson12@GitHub:~$ <span class="typed"></span></h1>
 </div>
 
-<hr />
+```powershell
+# ================ SYSTEM INFO ================
+# User: Solgleeson12
+# Role: Full-Stack Developer & Creative Technologist
+# OS: Linux/Windows Subsystem for Linux
+# Shell: zsh 5.9 | PowerShell 7.3
+# Terminal: Windows Terminal | VS Code Integrated
 
-<!-- stats -->
-<h2 align="center">📊 GitHub Stats 📊</h2>
-<br />
-<p align=center>
-<!-- first row -->
-  <div align=center>
-  <!-- streak stats -->
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gleesondev&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=gleesondev&theme=default&border=4F8CC9" />
-        <img align="left" width=390 src="https://streak-stats.demolab.com/?user=gleesondev&theme=default&border=4F8CC9" alt="gleesondev's streak stats" />
-      </picture>
-    </a>
-  <!-- github stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gleesondev&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gleesondev&show_icons=true&theme=default&border_color=4F8CC9" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=gleesondev&show_icons=true&theme=default&border_color=4F8CC9" alt="gleesondev's github stats" />
-      </picture>
-    </a>
-  </div>
-  <br /><br /><br /><br /><br /><br /><br /><br /><br />
-  <!-- contribution graph -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gleesondev&theme=react-dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gleesondev&bg_color=ffffff&color=4F8CC9&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gleesondev&bg_color=ffffff&color=4F8CC9&line=24292e&point=24292e&area=true&hide_border=true" alt="gleesondev's contribution graph" />
-    </picture>
-  </a>
-</p>
+# ============ ACTIVE PROCESSES ============
+- 🧠 Processing: Next.js 14 Applications
+- 🔗 Networking: GraphQL/REST API Development
+- 🛠️ Compiling: TypeScript → JavaScript
+- 🐳 Containerizing: Docker/Kubernetes
+- 🤖 Training: AI/ML Models (Python)
 
-<hr />
+# ============ TECH STACK ============
+$Languages = @("TypeScript", "Python", "JavaScript", "SQL")
+$Frontend = @("React", "Next.js", "TailwindCSS", "Three.js")
+$Backend = @("Node.js", "Express", "PostgreSQL", "MongoDB")
+$Tools = @("Docker", "Git", "VS Code", "Figma", "Jest")
 
-<!-- repositories -->
-<h2 align="center">🌟 Featured Projects 🌟</h2>
-<br />
-<!-- first row -->
-<div width="100%" align="center">
-  <!-- repo 1 -->
-  <a align="right" href="https://github.com/gleesondev/ai-code-reviewer" title="AI Code Reviewer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gleesondev&repo=ai-code-reviewer&theme=react&border_color=4F8CC9&border_radius=10" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gleesondev&repo=ai-code-reviewer&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gleesondev&repo=ai-code-reviewer&theme=graywhite&border_radius=10" alt="AI Code Reviewer" />
-    </picture>
-  </a>
+# Display formatted stack
+Write-Host "=== CORE STACK ===" -ForegroundColor Cyan
+$Languages | ForEach-Object { Write-Host "• $_" -ForegroundColor Green }
+Write-Host "`n=== FRONTEND ===" -ForegroundColor Cyan
+$Frontend | ForEach-Object { Write-Host "• $_" -ForegroundColor Yellow }
+Write-Host "`n=== BACKEND ===" -ForegroundColor Cyan
+$Backend | ForEach-Object { Write-Host "• $_" -ForegroundColor Magenta }
+Write-Host "`n=== TOOLS ===" -ForegroundColor Cyan
+$Tools | ForEach-Object { Write-Host "• $_" -ForegroundColor Blue }
+<!-- ASCII Art Divider --><pre align="center"> _____ _ _ __ __ / ____| | | | \ \ / / | (___ | |_ __ _ _ __ ___| |__ \ V / \___ \| __/ _` | '__/ __| '_ \ > < ____) | || (_| | | \__ \ | | | / . \ |_____/ \__\__,_|_| |___/_| |_|/_/ \_\ </pre>
+powershell
+# ============ GIT PROCESSES ============
+# Analyzing repository activity...
+$Commits = Get-Content "git_log.txt" | Measure-Object -Line
+$Projects = Get-ChildItem "repos" -Directory | Measure-Object
 
-  <!-- repo 2 -->
-  <a align="left" href="https://github.com/gleesondev/web3-auth" title="Web3 Authentication Suite">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gleesondev&repo=web3-auth&theme=react&border_color=4F8CC9&border_radius=10" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gleesondev&repo=web3-auth&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gleesondev&repo=web3-auth&theme=graywhite&border_radius=10" alt="Web3 Authentication Suite" />
-    </picture>
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<!-- second row -->
-<div width="100%" align="center">
-  <!-- repo 3 -->
-  <a align="left" href="https://github.com/gleesondev/performance-monitoring" title="Performance Monitoring Toolkit">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gleesondev&repo=performance-monitoring&theme=react&border_color=4F8CC9&border_radius=10" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gleesondev&repo=performance-monitoring&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gleesondev&repo=performance-monitoring&theme=graywhite&border_radius=10" alt="Performance Monitoring Toolkit" />
-    </picture>
-  </a>
+Write-Host "[✓] Version Control Stats" -ForegroundColor Green
+Write-Host "├─ Commits: $($Commits.Lines)" -ForegroundColor White
+Write-Host "├─ Projects: $($Projects.Count)" -ForegroundColor White
+Write-Host "└─ Active Branches: main, dev, feature/*" -ForegroundColor White
 
-  <!-- repo 4 -->
-  <a align="right" href="https://github.com/gleesondev/dev-tools" title="Developer Tools Collection">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gleesondev&repo=dev-tools&theme=react&border_color=4F8CC9&border_radius=10" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gleesondev&repo=dev-tools&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gleesondev&repo=dev-tools&theme=graywhite&border_radius=10" alt="Developer Tools Collection" />
-    </picture>
-  </a>
-</div>
+# ============ RECENT ACTIVITY ============
+Get-EventLog -LogName "GitHub" -Newest 3 | Format-Table -AutoSize
 
-<br /><br /><br /><br /><br /><br />
+<# Sample Output:
+TimeCreated          EventID Message
+-----------          ------- -------
+3/15/2024 10:00 AM   1001    Pushed to [feature/auth] 
+3/14/2024 2:30 PM    1002    Merged PR #42 
+3/13/2024 9:15 AM    1003    Created [web3-integration] 
+#>
+<!-- Interactive ASCII Terminal --><div align="center"> <img src="https://raw.githubusercontent.com/Solgleeson12/Solgleeson12/main/terminal_animation.gif" alt="Interactive Terminal" width="600"/> </div>
+powershell
+# ============ SYSTEM COMMANDS ============
+PS Solgleeson12@GitHub:~$ <span class="blinking-cursor">_</span>
 
-<h4 align="center">
-  <a href="https://github.com/gleesondev?tab=repositories" title="Show More Projects">🔍 Explore More Projects 🔎</a>
-</h4>
+Available Commands:
+• projects    - Show featured repositories
+• contact     - Display contact information
+• resume      - View professional experience
+• skills      - Show detailed tech competencies
+• clear       - Reset terminal view
 
-<hr />
+Try: <span style="color: #4CAF50;">Invoke-Command</span> -Name "projects"
+<!-- "Executing projects command" --><div id="projects-command" align="left"> <h3 style="font-family: 'Consolas', monospace; color: #4CAF50;">PS Solgleeson12@GitHub:~$ Invoke-Command -Name "projects"</h3> <div style="background: #1E1E1E; padding: 15px; border-radius: 5px; font-family: 'Consolas', monospace;"> <div style="color: #569CD6;">[1] nextjs-saas-boilerplate</div> <div style="color: #DCDCAA;">├─ TypeScript | Next.js 14 | Tailwind</div> <div style="color: #DCDCAA;">└─ Production-ready SaaS starter</div><br>
+<div style="color: #569CD6;">[2] python-data-pipeline</div>
+<div style="color: #DCDCAA;">├─ Python 3.11 | Pandas | Airflow</div>
+<div style="color: #DCDCAA;">└─ ETL for large datasets</div><br>
 
-<h2 align="center">📝 Latest Blog Posts 📝</h2>
-<br />
-<!-- BLOG-POST-LIST:START -->
-- [Optimizing Next.js Applications for Peak Performance](https://gleeson.dev/blog/nextjs-optimization)
-- [The Future of Web Authentication with Web3](https://gleeson.dev/blog/web3-auth)
-- [Building Scalable Microservices with Go](https://gleeson.dev/blog/go-microservices)
-<!-- BLOG-POST-LIST:END -->
-<div align="center">
-  <a href="https://gleeson.dev/blog">Read More →</a>
-</div>
+<div style="color: #569CD6;">[3] react-three-fiber-portfolio</div>
+<div style="color: #DCDCAA;">├─ React Three Fiber | GSAP</div>
+<div style="color: #DCDCAA;">└─ 3D interactive portfolio</div>
+</div> </div><!-- Contact Section as PowerShell Output -->
+powershell
+# ============ CONTACT PROTOCOLS ============
+PS Solgleeson12@GitHub:~$ contact
+
+[ℹ] Communication Channels Activated:
+• Email:    solgleeson12@proton.me
+• LinkedIn: <a href="https://linkedin.com/in/solgleeson12">/in/solgleeson12</a>
+• Twitter:  <a href="https://twitter.com/solgleeson12">@solgleeson12</a>
+
+[!] For secure connections:
+• GPG Key:  <a href="https://keys.openpgp.org">0xAB12CD34EF56</a>
+• SSH Key:  <a href="https://github.com/Solgleeson12.keys">View on GitHub</a>
+<style> .blinking-cursor { animation: blink 1s step-end infinite; color: #4CAF50; } @keyframes blink { from, to { opacity: 1; } 50% { opacity: 0; } } pre { background-color: #1E1E1E; color: #D4D4D4; padding: 15px; border-radius: 5px; font-family: 'Consolas', monospace; } </style>
