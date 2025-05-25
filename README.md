@@ -30,4 +30,20 @@ $UserProfile = @{
     SessionTTL = "∞"
 }
 
-<div align="center" style="margin: 2rem 0;"> <img src="https://raw.githubusercontent.com/Solgleeson12/Solgleeson12/main/assets/cyberpunk-divider.gif" alt="Cyberpunk divider" width="600"/> </div>
+# ============ CORE SYSTEM MODULES ============
+# Compiled with TypeScript 5.3 | Python 3.12 | Next.js 15
+
+$TechStack = @{
+    Languages = @("TypeScript","Python","JavaScript","SQL","Bash")
+    Frontend = @("React","Next.js","TailwindCSS","Framer Motion","Three.js")
+    Backend = @("Node.js","Express","FastAPI","PostgreSQL","MongoDB","Redis")
+    DevOps = @("Docker","Kubernetes","GitHub Actions","AWS","Terraform")
+    Tools = @("VSCode","Neovim","Figma","Jest","Cypress","Postman")
+}
+
+# Display stack in cyber matrix format
+Write-Host "`nMATRIX CORE TECHNOLOGIES:" -ForegroundColor Cyan -BackgroundColor Black
+$TechStack.GetEnumerator() | ForEach-Object {
+    Write-Host "`n[+] $($_.Key.ToUpper()): " -NoNewline -ForegroundColor Green
+    $_.Value -join " | " | Write-Host -ForegroundColor White
+}
