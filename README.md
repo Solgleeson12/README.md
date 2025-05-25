@@ -29,3 +29,5 @@ $UserProfile = @{
     LastLogin = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss UTC")
     SessionTTL = "∞"
 }
+
+<div align="center" style="margin: 2rem 0;"> <img src="https://raw.githubusercontent.com/Solgleeson12/Solgleeson12/main/assets/cyberpunk-divider.gif" alt="Cyberpunk divider" width="600"/> </div>
