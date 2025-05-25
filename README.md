@@ -1,78 +1,62 @@
-Here is a complete README.md for your GitHub profile, aligning with your vision of a terminal-inspired, cyberpunk, and strategically structured aesthetic. It uses native Markdown with inline HTML/CSS where needed, and is 100% GitHub-compliant.
+<h2 align="left">╔┓┏╦━━╦┓╔┓╔━━╗<br>║┗┛║┗━╣┃║┃║╯╰║     <br>║┏┓║┏━╣┗╣┗╣╰╯║      <br>╚┛┗╩━━╩━╩━╩━━╝</h2>
 
-md
-Copy
-Edit
-<!-- GitHub Profile README: Solgleeson12 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=booting+solgleeson12+profile...;initializing+CLI+interface...;access+granted+:+welcome%2C+user" alt="Typing SVG" />
-</p>
+###
 
-<pre>
-  ___       _       _           _                         
- / __| ___ | | ___ | |__   __ _| |_   _ __  ___ _ _  ___  
- \__ \/ _ \| |/ _ \| '_ \ / _` |  _| | '_ \/ -_) ' \/ -_) 
- |___/\___/|_|\___/|_.__/_\__,_|\__| | .__/\___|_||_\___| 
-                                     |_|                  
-</pre>
+<div align="left">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="30" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
+</div>
 
-<p align="center"><code>System Status: <span style="color:lime">ONLINE</span> • User: <b>solgleeson12</b> • Shell: <i>PowerDev v1.2</i></code></p>
+###
 
----
+<img align="right" height="151" src="https://imgflip.com/s/meme/Futurama-Fry.jpg"  />
 
-## 🖥️ System Boot Log
+###
 
-```bash
-$ whoami
-> Full-stack engineer | Cyberpunk enthusiast | CLI aesthetic maximalist
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo"  />
+</div>
 
-$ systemctl status solgleeson12
-● active
-  ├── Languages: JavaScript, TypeScript, Python, C#
-  ├── Frameworks: React, Next.js, Node.js, .NET
-  ├── Databases: PostgreSQL, MongoDB, Firebase
-  └── DevOps: Docker, GitHub Actions, Azure
-📂 Active Threads (Projects)
-bash
-Copy
-Edit
-$ top -pid 12 --sort=+cpu
-PID   Project             CPU%    Status      Description
-────  ──────────────────  ──────  ──────────  ─────────────────────────────────────────────
-3487  🧠 NeuralPort        92.3%   Running     AI-based API gateway using FastAPI + Langchain
-2840  🔐 SentinelJS        88.7%   Running     Browser extension for secure session control
-1724  📦 DevShell CLI      79.2%   Running     Customizable dev CLI built in Node.js
-0632  📊 DashForge         67.9%   Running     Lightweight analytics dashboard in React
-0421  🎮 ArcadeCore        64.5%   Idle        WebGL-based retro-style game engine
-➡️ View All Projects → GitHub Repos »
+###
 
-🧠 Skills & Protocols
-bash
-Copy
-Edit
-$ nano skillset.conf
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Solgleeson12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-# Core Tech Stack
-[frontend]   React.js, Next.js, Tailwind, SASS
-[backend]    Node.js, Express, FastAPI, .NET Core
-[databases]  PostgreSQL, MongoDB, Firebase
-[devops]     Docker, Azure, CI/CD, GitHub Actions
-[tools]      VSCode, Figma, Postman, Linux CLI
+###
 
-# Favorite Commands
-alias build="npm run build"
-alias deploy="git push origin main && gh workflow run deploy.yml"
-alias coffee="echo '☕ Compiling human.exe...'"
-🛰️ Connection Protocols
-bash
-Copy
-Edit
-$ ping solgleeson12.net
+<h6 align="center">ᗧ···ᗣ···ᗣ·· ＰＡＣ ＭＡＮ ＣＯＮＴＲＩＢＵＴＩＯＮＳ ᗧ···ᗣ···ᗣ··</h6>
 
-[ ↪️ LinkedIn ]  https://linkedin.com/in/solgleeson12
-[ 📡 Portfolio ] https://solgleeson12.dev
-[ 💌 Email    ]  mailto:solgleeson12@gmail.com
-[ 🔓 GPG Key  ]  keybase.io/solgleeson12
+###
 
-# End of Line.
-<p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> <i>Ctrl+C to exit terminal</i> </p> ```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Solgleeson12/Solgleeson12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Solgleeson12/Solgleeson12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Solgleeson12/Solgleeson12/output/pacman-contribution-graph.svg">
+</picture>
+
+###
