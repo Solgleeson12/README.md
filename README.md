@@ -1,4 +1,4 @@
-<h2 align="left">╔┓┏╦━━╦┓╔┓╔━━╗<br>║┗┛║┗━╣┃║┃║╯╰║     <br>║┏┓║┏━╣┗╣┗╣╰╯║      <br>╚┛┗╩━━╩━╩━╩━━╝</h2>
+<h2 align="center">╔┓┏╦━━╦┓╔┓╔━━╗<br>║┗┛║┗━╣┃║┃║╯╰║     <br>║┏┓║┏━╣┗╣┗╣╰╯║      <br>╚┛┗╩━━╩━╩━╩━━╝</h2>
 
 ###
 
@@ -44,23 +44,13 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo"  />
   <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="patreon logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Solgleeson12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h6 align="center">ᗧ···ᗣ···ᗣ·· ＡＢＯＵＴ ＭＥ ᗧ···ᗣ···ᗣ··</h6>
+<h4 align="center">ᗧ···ᗣ···ᗣ·· ＡＢＯＵＴ ＭＥ ᗧ···ᗣ···ᗣ··</h4>
 
 ###
 
@@ -68,18 +58,42 @@
 
 ###
 
-<img align="right" height="190" src="https://imgflip.com/s/meme/Futurama-Fry.jpg"  />
-
-###
-
 <p align="left">What I ❤︎:<br><br>» Training / Finetuning large language models <br><br>» Exploring the ethical challenges of AI in law and society 𓂃✍︎<br><br>» Experimenting with machine learning patterns how different types of data behave, and exploring the maths behind it<br><br>» Tackling real-world problems with applied machine learning<br><br>» Writing clean, maintainable code ( yes, I actually enjoy refactoring :‹ ) <br><br>» Open Source ( MIT license an I have our own little bond >ᴗ• )</p>
 
 ###
 
-<h6 align="center">ᗧ···ᗣ···ᗣ·· ＦＵＮ ＦＡＣＴ ＡＢＯＵＴ ＭＥ ᗧ···ᗣ···ᗣ··</h6>
+<h6 align="center"></h6>
 
 ###
 
-<p align="left">» I learned coding and cybersecurity (self-thought) on a remote island off the coast of Galway. It was a Gaeltacht, one of the few remaining regions in Ireland where Irish is still the everyday language. ( I'm fluent now, by the way. My code still speaks English, though. For now. •ᴗ• )</p>
+<h4 align="center">ᗧ···ᗣ···ᗣ·· ＦＵＮ ＦＡＣＴ ＡＢＯＵＴ ＭＥ ᗧ···ᗣ···ᗣ··</h4>
+
+###
+
+<img align="right" height="190" src="https://imgflip.com/s/meme/Futurama-Fry.jpg"  />
+
+###
+
+<p align="left">» I learned coding and cybersecurity (self-thought) on a remote island off the coast of Galway. It was a Gaeltacht, one of the few remaining regions in Ireland where Irish is still the everyday language. ( I'm fluent now, by the way. My code still speaks English, though. For now. •ᴗ• )<br><br>» I love talking (you can probably tell from this README) but when I'm working I'm completely silent.</p>
+
+###
+
+<p align="center"></p>
+
+###
+
+<h4 align="center">ᗧ···ᗣ···ᗣ·· ＭＹ ＣＯＮＴＲＩＢＵＴＩＯＮＳ ᗧ···ᗣ···ᗣ··</h4>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Solgleeson12&radius=16&theme=github-dark&area=true&order=5&custom_title=%E0%AD%A8%E0%AD%A7&hide_title=true&hide_border=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Solgleeson12&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
 
 ###
