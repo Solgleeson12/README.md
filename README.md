@@ -70,7 +70,7 @@
 
 ###
 
-<p align="left">𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞! 𝐈'𝐦 𝐆𝐥𝐞𝐞𝐬𝐨𝐧.<br><br>​I'm a young developer from Ireland 🇮🇪, working on making the world a better place though machine learning and AI. Most days, you’ll probably find me deep in Python, Scala, and SQL building models, designing systems, and trying to teach machines to think a little smarter. I’m always exploring new ideas in AI, from theory to deployment and hopefully contribute to our little world for the better.</p>
+<p align="left">𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞!<br><br>​ I'm Gleeson, a young developer from Ireland 🇮🇪, who is working on making the world a better place though machine learning and AI. Most days, you’ll probably find me deep in Python, Scala, and SQL building models, designing systems, and trying to teach machines to think a little smarter. I’m always exploring new ideas in AI, from theory to deployment and hopefully contribute to our little world for the better.</p>
 
 ###
 
