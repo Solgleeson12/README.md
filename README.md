@@ -2,6 +2,10 @@
 
 ###
 
+<h4 align="center">ᗧ···ᗣ···ᗣ·· ＭＴ ＴＥＣＨ ＳＴＡＣＫ ᗧ···ᗣ···ᗣ··</h4>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -15,7 +19,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
@@ -33,9 +37,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30" alt="scala logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/flask/000000" height="30" alt="flask logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
 ###
@@ -52,6 +62,10 @@
 
 ###
 
+<h1 align="center"></h1>
+
+###
+
 <h4 align="center">ᗧ···ᗣ···ᗣ·· ＡＢＯＵＴ ＭＥ ᗧ···ᗣ···ᗣ··</h4>
 
 ###
@@ -60,7 +74,11 @@
 
 ###
 
-<p align="left">What I ❤︎:<br><br>» Training / Finetuning large language models <br><br>» Exploring the ethical challenges of AI in law and society 𓂃✍︎<br><br>» Experimenting with machine learning patterns how different types of data behave, and exploring the maths behind it<br><br>» Tackling real-world problems with applied machine learning<br><br>» Writing clean, maintainable code ( yes, I actually enjoy refactoring :‹ ) <br><br>» Open Source ( MIT license an I have our own little bond >ᴗ• )</p>
+<h3 align="left"></h3>
+
+###
+
+<p align="left">Things I ❤︎:<br><br>» Training / Finetuning large language models <br><br>» Exploring the ethical challenges of AI in law and society 𓂃✍︎<br><br>» Experimenting with machine learning patterns how different types of data behave, and exploring the maths behind it<br><br>» Tackling real-world problems with applied machine learning<br><br>» Writing clean, maintainable code ( yes, I actually enjoy refactoring :‹ ) <br><br>» Open Source ( MIT license an I have our own little bond >ᴗ• )</p>
 
 ###
 
@@ -68,19 +86,23 @@
 
 ###
 
-<h4 align="center">ᗧ···ᗣ···ᗣ·· ＦＵＮ ＦＡＣＴ ＡＢＯＵＴ ＭＥ ᗧ···ᗣ···ᗣ··</h4>
+<h4 align="center">ᗧ···ᗣ···ᗣ·· ＦＵＮ ＦＡＣＴＳ ＡＢＯＵＴ ＭＥ ᗧ···ᗣ···ᗣ··</h4>
 
 ###
 
-<img align="right" height="190" src="https://imgflip.com/s/meme/Futurama-Fry.jpg"  />
+<br clear="both">
+
+<img align="right" height="200" src="https://imgflip.com/s/meme/Futurama-Fry.jpg"  />
 
 ###
 
-<p align="left">» I learned coding and cybersecurity (self-thought) on a remote island off the coast of Galway. It was a Gaeltacht, one of the few remaining regions in Ireland where Irish is still the everyday language. ( I'm fluent now, by the way. My code still speaks English, though. For now. •ᴗ• )<br><br>» I love talking (you can probably tell from this README) but when I'm working I'm completely silent.</p>
+<p align="left">» I learned coding and cybersecurity (self-thought) on a remote island off the coast of Galway. It was a Gaeltacht, one of the few remaining regions in Ireland where Irish is still the everyday language. ( I'm fluent now, by the way. My code still speaks English, though. For now. •ᴗ• )<br><br>» I love talking (you can probably tell from this README), but when I'm working, I'm completely silent. It's like flipping a switch, chatty one minute, monk-like focus the next. You’ll hear more noise from my laptop fans than from me. ˃ ᵕ ˂</p>
 
 ###
 
-<h1 align="center"></h1>
+<br clear="both">
+
+<h3 align="center"></h3>
 
 ###
 
@@ -96,6 +118,16 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Solgleeson12&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<div align="center">
+  <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJrenQxNWViZjEwanI2bmJ6eDFoZW8ycHRoeDdnbHMzbnl5eG9seiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jUwpNzg9IcyrK/giphy.gif"  />
 </div>
 
 ###
