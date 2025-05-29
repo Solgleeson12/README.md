@@ -111,13 +111,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Solgleeson12&radius=16&theme=github-dark&area=true&order=5&custom_title=%E0%AD%A8%E0%AD%A7&hide_title=true&hide_border=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GleesonDev&radius=16&theme=github-dark&area=true&order=5&custom_title=%E0%AD%A8%E0%AD%A7&hide_title=true&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Solgleeson12&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=GleesonDev&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
